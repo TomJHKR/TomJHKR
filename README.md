@@ -1,7 +1,5 @@
-<!--
-![carbon (3)](https://github.com/user-attachments/assets/6f1b20fb-bfd6-420d-a071-32ab57dafc32)
 
-
+![image](https://github.com/TomJHKR/dynamic-terminal-profile/blob/main/assets/terminal.svg)
 
 <!--
 **TomJHKR/TomJHKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
