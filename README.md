@@ -1,5 +1,5 @@
-
 ![image](https://github.com/TomJHKR/dynamic-terminal-profile/blob/main/assets/terminal.svg)
+
 
 <!--
 **TomJHKR/TomJHKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
